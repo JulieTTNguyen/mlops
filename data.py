@@ -1,7 +1,8 @@
 import matplotlib.pyplot as plt  # only needed for plotting
 import torch
 from mpl_toolkits.axes_grid1 import ImageGrid  # only needed for plotting
-
+#yoooooooooooooo
+hi = "hello"
 DATA_PATH = "dtu_mlops/s1_development_environment/exercise_files/final_exercise/corruptmnist_v1"
 
 def corrupt_mnist():
